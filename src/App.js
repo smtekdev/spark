@@ -2,16 +2,16 @@ import React from "react";
 import Navebar from "./assets/components/Navebar/Navebar";
 import Footer from "./assets/components/Footer/Footer";
 import RouteApp from "./assets/routes/RouteApp";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename="/spark">
-          <Navebar />
-          <RouteApp /> 
-          <Footer />
-      </BrowserRouter>
+      <HashRouter>
+        <Navebar />
+        <RouteApp /> 
+        <Footer />
+      </HashRouter>
     </div>
   );
 }
