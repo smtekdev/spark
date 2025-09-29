@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/spark/static/css/main.30dba1a3.css",
-    "main.js": "/spark/static/js/main.287520aa.js",
+    "main.js": "/spark/static/js/main.2ff848dd.js",
     "static/media/screencapture-logowebexpert-2025-09-23-03_11_30.png": "/spark/static/media/screencapture-logowebexpert-2025-09-23-03_11_30.4f9838ed07d75bf5cb1c.png",
     "static/media/screencapture-localhost-built-2025-07-25-11_36_56.png": "/spark/static/media/screencapture-localhost-built-2025-07-25-11_36_56.a2338564f80ce4a0fa15.png",
     "static/media/screencapture-localhost-nava-2025-08-26-08_23_14.png": "/spark/static/media/screencapture-localhost-nava-2025-08-26-08_23_14.6cfc88c677f45466fc6f.png",
@@ -43,10 +43,10 @@
     "static/media/growth.png": "/spark/static/media/growth.11b11d1788b953a36398.png",
     "index.html": "/spark/index.html",
     "main.30dba1a3.css.map": "/spark/static/css/main.30dba1a3.css.map",
-    "main.287520aa.js.map": "/spark/static/js/main.287520aa.js.map"
+    "main.2ff848dd.js.map": "/spark/static/js/main.2ff848dd.js.map"
   },
   "entrypoints": [
     "static/css/main.30dba1a3.css",
-    "static/js/main.287520aa.js"
+    "static/js/main.2ff848dd.js"
   ]
 }
